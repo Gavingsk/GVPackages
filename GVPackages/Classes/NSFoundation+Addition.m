@@ -642,7 +642,7 @@ done:
     NSString *timeString = GVString(@"%f", timeInterval);
     return timeString;
 }
-+(NSString*)timeFlagString:(NSDate *)date
++(NSString*)timeFlagWithDate:(NSDate *)date
 {
     NSTimeInterval late=[date timeIntervalSince1970]*1;
     NSDate* dat = [NSDate dateWithTimeIntervalSinceNow:0];
