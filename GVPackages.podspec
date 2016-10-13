@@ -18,5 +18,5 @@ Pod::Spec.new do |s|
   s.author           = { 'Gavingsk' => 'gavin_gushaokun@126.com' }
   s.source           = { :git => 'https://github.com/Gavingsk/GVPackages.git', :tag => s.version.to_s }
   s.ios.deployment_target = '7.0'
-  s.source_files = 'GVPackages/*'
+  s.source_files = 'Classes/*'
 end
