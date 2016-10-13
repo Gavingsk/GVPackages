@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'GVPackages'
-    s.version          = '0.0.1'
+    s.version          = '0.0.2'
     s.summary          = 'A collection of commonly used classes and methods in iOS development'
     s.description      = <<-DESC
     This is a collection of commonly used classes and methods in iOS development
