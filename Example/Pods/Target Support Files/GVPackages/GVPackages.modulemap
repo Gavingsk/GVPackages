@@ -1,0 +1,6 @@
+framework module GVPackages {
+  umbrella header "GVPackages-umbrella.h"
+
+  export *
+  module * { export * }
+}

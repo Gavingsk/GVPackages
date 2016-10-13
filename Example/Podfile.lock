@@ -1,0 +1,16 @@
+PODS:
+  - GVPackages (0.0.1)
+
+DEPENDENCIES:
+  - GVPackages (from `../`)
+
+EXTERNAL SOURCES:
+  GVPackages:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GVPackages: b59c1353ecf1395b8fd7de9bd353459f9fd7391b
+
+PODFILE CHECKSUM: 0fba2401f8d55d7d2b23144e85f68bd43a38695e
+
+COCOAPODS: 1.0.1
